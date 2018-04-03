@@ -57,10 +57,11 @@ img {
 .row3 {
     background: url('img/3/ic2409Assignment4b.png');
     background-repeat: no-repeat;
+	background-position: left; 
     display: flex;
     position: relative;
     align-items: center;
-    background-size: cover;
+    background-size: contain;
     padding-bottom: 8%;
 
 
